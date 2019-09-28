@@ -1,0 +1,36 @@
+header{
+	background: #5996bd;
+	font-family: Arial, Hevlvetica, "Time New Roman";
+	font-size: 100%;
+    width: 25em;
+	color: #ffffff;
+    display: block;
+    margin: 0 auto;
+}
+
+
+#nav_link{
+    color: #ffffff;
+    font-size: 100%;
+    
+}
+
+section{
+    font-family: Aril, Hevlvetica, Time New Roman;
+    font-size: 100%;
+    display: block; 
+}
+
+.about_page p{
+    color: #ff0000;
+}
+
+.about_page p.page_info{
+    color: #0000ff;
+}
+
+ /* p{
+  color: blue;
+  padding:10px 5px;
+  background: black;
+}*/
